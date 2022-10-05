@@ -1,5 +1,0 @@
-Site web salle de sport "ISMANIFIT" le client nous a demandé de créer une page web pour sa nouvelle salle de sport qui propose des créneaux horaires pour différentes disciplines, avec un abonnement, de réservations des séances de cross fit. 
-Le client nous a demandé d'inclure dans son site les fonctionnalités suivantes :
-fonctionnalités utilisateur : créer un compte, modifier son compte, demande de suppression de compte/ affichage de compte, créer réservation, modifier sa réservation, annuler sa réservation, afficher sa réservation* connexion/déconnexion, afficher les créneaux horaires, prendre/suspendre/modifier un abonnement*
-
-Fonctionnalité admin : créer/modifier/supprimer les créneaux horaires, valider les abonnements
