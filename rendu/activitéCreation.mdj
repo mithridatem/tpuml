@@ -564,7 +564,7 @@
 											"top": 119,
 											"width": 191.4326171875,
 											"height": 13,
-											"text": "Cliquer sur création d'article"
+											"text": "Cliquer sur création de compte"
 										},
 										{
 											"_type": "LabelView",
@@ -2929,7 +2929,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGDoxPFh0JRBtA="
 							},
-							"name": "Cliquer sur création d'article",
+							"name": "Cliquer sur création de compte",
 							"kind": "acceptSignal"
 						},
 						{
