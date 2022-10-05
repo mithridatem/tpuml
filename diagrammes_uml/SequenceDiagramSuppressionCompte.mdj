@@ -63,7 +63,7 @@
 												"$ref": "AAAAAAGDo2DntiZmfqM="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 24.72998046875,
 											"top": 5,
 											"width": 226.46240234375,
 											"height": 13,
@@ -76,7 +76,7 @@
 												"$ref": "AAAAAAGDo2DntiZmfqM="
 											},
 											"font": "Arial;13;1",
-											"left": 13,
+											"left": 5,
 											"top": 5,
 											"width": 14.72998046875,
 											"height": 13,
@@ -84,9 +84,8 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 8,
 									"width": 1289,
-									"height": 817,
+									"height": 1169,
 									"nameLabel": {
 										"$ref": "AAAAAAGDo2DntiZngWU="
 									},
@@ -1993,6 +1992,71 @@
 									"activation": {
 										"$ref": "AAAAAAGDo3Kc2yghv1g="
 									}
+								},
+								{
+									"_type": "UMLNoteView",
+									"_id": "AAAAAAGDpvr8z0VVeSE=",
+									"_parent": {
+										"$ref": "AAAAAAGDo2DntiZlPeg="
+									},
+									"font": "Arial;13;0",
+									"left": 408,
+									"top": 808,
+									"width": 417,
+									"height": 57,
+									"text": "(2) Scénario d'erreur Le serveur BDD ne répond pas\n2.1 Le SI indique à l'utilisateur que le serveur de BDD ne répond pas\nLe scénario s'arrête à ce point"
+								},
+								{
+									"_type": "UMLNoteView",
+									"_id": "AAAAAAGDpvsTFkVYods=",
+									"_parent": {
+										"$ref": "AAAAAAGDo2DntiZlPeg="
+									},
+									"font": "Arial;13;0",
+									"left": 408,
+									"top": 936,
+									"width": 417,
+									"height": 55,
+									"text": "(9) Scénario d'erreur Le serveur BDD ne répond pas\n9.1 Le SI indique à l'utilisateur que le serveur de BDD ne répond pas\nLe scénario s'arrête à ce point"
+								},
+								{
+									"_type": "UMLNoteView",
+									"_id": "AAAAAAGDpwACvkVqlNc=",
+									"_parent": {
+										"$ref": "AAAAAAGDo2DntiZlPeg="
+									},
+									"font": "Arial;13;0",
+									"left": 408,
+									"top": 872,
+									"width": 417,
+									"height": 55,
+									"text": "(5) Scénario d'erreur Le compte n'existe plus\n5.1 Le SI indique à l'utilisateur que le compte n'existe plus\nLe scénario s'arrête à ce point"
+								},
+								{
+									"_type": "UMLNoteView",
+									"_id": "AAAAAAGDpwGhv0V0blQ=",
+									"_parent": {
+										"$ref": "AAAAAAGDo2DntiZlPeg="
+									},
+									"font": "Arial;13;0",
+									"left": 408,
+									"top": 1000,
+									"width": 417,
+									"height": 56,
+									"text": "(8) Scénario d'erreur l'utilisateur à annulé la modification\n8.1 Le SI indique à l'utilisateur que la modification à été annulé\nLe scénario s'arrêt ici"
+								},
+								{
+									"_type": "UMLNoteView",
+									"_id": "AAAAAAGDpwKpj0V7AfA=",
+									"_parent": {
+										"$ref": "AAAAAAGDo2DntiZlPeg="
+									},
+									"font": "Arial;13;0",
+									"left": 408,
+									"top": 1064,
+									"width": 417,
+									"height": 56,
+									"text": "(12) Scénario d'erreur modification impossible\n12.1 Le SI indique à l'utilisateur que la modification est impossible\nLe scénario s'arrête à ce point"
 								}
 							]
 						}
