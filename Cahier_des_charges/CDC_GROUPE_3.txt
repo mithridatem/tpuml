@@ -1,0 +1,28 @@
+
+1 Description du projet :
+
+	1 Trouvez une idée de projet :
+	Site web, application mobile ou logiciel.
+
+2 Réalisez un cahier des charges non structuré :
+	Celui-ci va décrire le projet, les différentes fonctionnalités ainsi que les acteurs qui vont utiliser
+	l’outil.
+
+	Le projet est un site Web référençant le travail d'un photographe animalier. Ces 	photos seront sous formes de cards simple contenant des 1 photo et 1 article de 		description.
+
+	Ont peut globalement , visiter les articles , laisser des commentaires , prendre des rendez vous , créer un compte et se connecter.
+
+	Un visiteur ( 1er niveau de Droit ) pourra naviguer sur le site , cliquer sur les 	cards pour afficher les articles et les photos voulues. Il à la possibilité de créer 	un compte cepandant on considére qu'il ne l'a pas encore fait.
+
+	Un Utilisateur ( nommé user / 2ème niveau ) aura créée son compte et hérite de tout 	les droits du visiteur en plus de sa capacité à se connecter, commenter , suppr/modif 	son compte , se connecter/deco.
+
+	L'admin ( photographe ) hérite de tout les droits sus-dits mais aussi 	créer/modif/afficher/suppr (CMAS) les Rendez-vous , CMAS les articles mais aussi 	supprimer et modifier les comptes.
+
+3 Réalisez les diagrammes UML suivants :
+
+	-Use case,
+	-4 diagrammes d’activités (création, modification, suppression et affichage) et ou un cas particulier
+	(ex connexion), ils devront contenir les symboles suivants : accept signal, send signal, et des
+	conditions.
+-4 diagrammes de séquence (création, modification, suppression et affichage) et ou un cas particulier
+(ex connexion) en incluant les scénarios alternatif et d’erreurs.
