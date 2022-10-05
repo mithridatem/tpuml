@@ -564,7 +564,7 @@
 											"top": 119,
 											"width": 191.4326171875,
 											"height": 13,
-											"text": "Cliquer sur création compte"
+											"text": "Cliquer sur création d'article"
 										},
 										{
 											"_type": "LabelView",
@@ -2346,7 +2346,7 @@
 											"top": 199,
 											"width": 211.64990234375,
 											"height": 13,
-											"text": "Demander information de compte"
+											"text": "Demander information de création"
 										},
 										{
 											"_type": "LabelView",
@@ -2929,7 +2929,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGDoxPFh0JRBtA="
 							},
-							"name": "Cliquer sur création compte",
+							"name": "Cliquer sur création d'article",
 							"kind": "acceptSignal"
 						},
 						{
@@ -2989,7 +2989,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGDoxPjr0JaCwM="
 							},
-							"name": "Demander information de compte"
+							"name": "Demander information de création"
 						},
 						{
 							"_type": "UMLDecisionNode",
